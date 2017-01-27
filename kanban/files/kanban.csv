@@ -1,0 +1,6 @@
+status,tag,description,history,date
+"todo","PERSONAL","buy rose for girlfriend foo bar","BHB","2017-01-26@13:36 2017-01-26@13:39 2017-01-26@13:39"
+"done","PERSONAL","cochalo","Bd","2017-01-26@13:43 2017-01-27@11:49"
+"todo","@silep","datos de prueba aaaaaaaaaaaaaaaaaaaaaaaaaaa","B","2017-01-26@14:07"
+"develop","+plantillas","Script Migracion Historial Antiguos, Simditor tablas, clonar documento, html y pdf en modalbox, separacion de parrafos, envio de email y sms","d","2017-01-27@11:33"
+"todo","+plantillas","Autoguardado de formularios","t","2017-01-27@11:50"
